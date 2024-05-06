@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SteveNut/static/css/main.26a10f7f.css",
+    "main.js": "/SteveNut/static/js/main.e9ba3162.js",
+    "static/js/453.0e9eed79.chunk.js": "/SteveNut/static/js/453.0e9eed79.chunk.js",
+    "static/media/stevenut.png": "/SteveNut/static/media/stevenut.4b046e220551bed725b5.png",
+    "index.html": "/SteveNut/index.html",
+    "main.26a10f7f.css.map": "/SteveNut/static/css/main.26a10f7f.css.map",
+    "main.e9ba3162.js.map": "/SteveNut/static/js/main.e9ba3162.js.map",
+    "453.0e9eed79.chunk.js.map": "/SteveNut/static/js/453.0e9eed79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a10f7f.css",
+    "static/js/main.e9ba3162.js"
+  ]
+}
